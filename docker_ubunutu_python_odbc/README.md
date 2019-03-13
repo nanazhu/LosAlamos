@@ -6,3 +6,7 @@
 ###### numpy-1.16.2 pandas-0.24.1 pyodbc-4.0.26
 
 ##### pip3package.txt contains the python package requirement 
+
+```
+docker pull nanazhu/ubuntu_database 
+```
